@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   capstone-service:
   - apiVersion: v1
-    appVersion: 1.0.5
-    created: "2019-10-27T09:41:41.6752036Z"
+    appVersion: "1.1"
+    created: "2019-10-27T21:26:53.4306305Z"
     description: Capstone Service. A Quarkus example service for the Udacity DevOps
       Nanodegree.
-    digest: 555c76ecde4e67255b91acec559d66595daba5f72478d6387aa4e00aa604abcd
+    digest: af554505545e945f7d8837bb52b9bb099a8fe2a852c2f3fd0690a5caae3bed64
     name: capstone-service
     urls:
-    - https://github.com/FlorianSeidel/DevOps_Capstone_Repo/releases/download/capstone-service-1.0.5/capstone-service-1.0.5.tgz
-    version: 1.0.5
-generated: "2019-10-27T09:41:41.3543441Z"
+    - https://github.com/FlorianSeidel/DevOps_Capstone_Repo/releases/download/capstone-service-1.1/capstone-service-1.1.tgz
+    version: "1.1"
+generated: "2019-10-27T21:26:53.0456621Z"
